@@ -1,0 +1,1 @@
+document.getElementById("todaysdate").innerHTML = document.todaysdate
