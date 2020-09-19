@@ -1,16 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap
+
 body {
    font-size: 18px;
    max-width: 800px;
    margin: 0 auto;
+   font-family: "josefin sans", sans-serif;
+
 }
 
 header {
-    background-color: blue;
+    background-color:#ff8080;
     
 
 }
 
 footer {
-    background-color: blue;
+    background-color:#ff8080;
 }
 
