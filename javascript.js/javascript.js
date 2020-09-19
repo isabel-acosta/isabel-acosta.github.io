@@ -1,1 +1,1 @@
-document.getElementById("todaysdate").innerHTML = document.todaysdate
+document.getElementById("todaysdate").textContent = document.lastModified;
